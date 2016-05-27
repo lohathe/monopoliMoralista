@@ -1,7 +1,7 @@
-/********************************************\
-|               CASELLA BASE                 |
-|                    HEADER                  |
-\********************************************/
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
 
 #ifndef CASELLA_BASE_H
 #define CASELLA_BASE_H

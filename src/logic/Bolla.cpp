@@ -1,3 +1,8 @@
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
+
 #include "Bolla.h"
 
 Andata::Andata(Andata::Tipo t, Giocatore *g, CBase *c, int opz, int cs, int att, int lim, int tot): tipo(t), giocatore(g), casella(c), costo(cs), attuale(att), limite(lim), totale(tot) {

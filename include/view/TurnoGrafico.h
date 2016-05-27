@@ -1,3 +1,8 @@
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
+
 #ifndef TURNOGRAFICO_H
 #define TURNOGRAFICO_H
 

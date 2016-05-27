@@ -1,7 +1,7 @@
-/********************************************\
-|  CASELLA EDIFICABILE : OPZIONE IPOTECABILE |
-|-----------------  header  -----------------|
-\********************************************/
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
 
 #ifndef CASELLA_EDIFICABILE_IPOTECABILE_H
 #define CASELLA_EDIFICABILE_IPOTECABILE_H

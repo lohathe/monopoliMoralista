@@ -1,7 +1,7 @@
-/********************************\
-|         BOLLA
-|           header
-\********************************/
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
 
 #ifndef BOLLA_H
 #define BOLLA_H

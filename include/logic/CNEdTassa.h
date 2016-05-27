@@ -1,7 +1,7 @@
-/***************************************\
-|  :CASELLA NON EDIFICABILE TASSABILE:  |
-|--------------  header  ---------------|
-\***************************************/
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
 
 #ifndef CASELLA_NON_EDIFICABILE_TASSABILE_H
 #define CASELLA_NON_EDIFICABILE_TASSABILE_H

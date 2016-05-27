@@ -1,8 +1,7 @@
-/**************************
- *     CASELLA GRAFICA    *
- *        HEADER          *
- *                        *
- *************************/
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
 
 #ifndef CELLAGRAFICA_H
 #define CELLAGRAFICA_H

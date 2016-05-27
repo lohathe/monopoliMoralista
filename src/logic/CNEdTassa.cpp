@@ -1,7 +1,7 @@
-/***************************************\
-|  :CASELLA NON EDIFICABILE TASSABILE:  |
-|--------------          ---------------|
-\***************************************/
+/*
+* Copyright (c) 2009-2016 Marco Ziccardi, Luca Bonato
+* Licensed under the MIT license.
+*/
 
 #include "CNEdTassa.h"
 
